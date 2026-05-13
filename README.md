@@ -74,4 +74,6 @@ A collection of coding problems solved in Java for:
 
 ---
 
-⭐ Focused on consistency, learning, and real-world development.
+Passionate about problem-solving and DSA, I regularly practice coding challenges on [LeetCode](https://leetcode.com/u/AlgoKnight_27/?utm_source=chatgpt.com) to enhance my algorithmic thinking and programming skills.
+
+---
